@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  site: one
+  identifier: MyString
+  price: 1.5
+  amzprice: 1.5
+  ebayprice: 1.5
+  available: false
+  url: MyString
+
+two:
+  name: MyString
+  site: two
+  identifier: MyString
+  price: 1.5
+  amzprice: 1.5
+  ebayprice: 1.5
+  available: false
+  url: MyString
